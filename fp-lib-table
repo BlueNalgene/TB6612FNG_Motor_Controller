@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RaspiMotor_TB6612FNG)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
